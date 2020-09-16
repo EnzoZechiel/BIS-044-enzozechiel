@@ -19,7 +19,8 @@ theDF$x[3]
 names(theDF)<-c("Popularity", "Team Strength", "Sport")
 View(theDF)
 
-sum(x)
+sum(theDF$Popularity)
 
-# x <- Popularity
+
+
 
