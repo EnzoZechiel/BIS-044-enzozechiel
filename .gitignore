@@ -37,3 +37,7 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Assignment 04 csv
+*used_cars_data.csv.zip
+*used_cars_data.csv
